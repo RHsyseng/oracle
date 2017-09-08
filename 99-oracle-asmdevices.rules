@@ -1,0 +1,1 @@
+KERNEL=="dm-*",ENV{DM_UUID}=="<UUID>",OWNER="grid",GROUP="asmadmin",MODE="0660"
